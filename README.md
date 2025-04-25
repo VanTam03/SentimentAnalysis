@@ -73,7 +73,7 @@ Số lớp: 3 (Tiêu cực/Trung lập/Tích cực).
 Độ dài tối đa văn bản: 128 tokens.
 3. Tham số huấn luyện
 Số epoch: 5.
-Batch size: 166.
+Batch size: 16.
 Tốc độ học: 5e-5.
 Độ chính xác cuối cùng: 88.95%.
 4. Kết quả đánh giá
