@@ -19,7 +19,7 @@ Project/
     │   ├── sentiments.txt  # Nhãn cảm xúc
     │   └── topics.txt      # Chủ đề
     └── test/
-    │   ├── sents.txt          # Dữ liệu kiểm tra\
+    │   ├── sents.txt          # Dữ liệu kiểm tra
     │   ├── sentiments.txt
     │   └── topics.txt 
     ...
