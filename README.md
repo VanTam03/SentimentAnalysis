@@ -37,9 +37,6 @@ scikit-learn==1.2.2
 nltk==3.8.1
 python-crfsuite==0.9.11
 ```
-### Phần cứng
-RAM tối thiểu: 8GB (16GB khuyến nghị cho huấn luyện).
-GPU: NVIDIA với CUDA hỗ trợ (khuyến nghị cho huấn luyện).
 ## ✍️📜 Cách Sử Dụng
 ### Khởi chạy ứng dụng:
 ``` bash
